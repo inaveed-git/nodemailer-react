@@ -28,8 +28,8 @@ This project enables users to send emails via a web application, featuring a **R
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/inaveed-git/nodemailer-react.git
+   cd nodemailer-react
    ```
 
 2. **Setup Environment Variables**
