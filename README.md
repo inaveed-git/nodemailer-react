@@ -91,10 +91,12 @@ This project enables users to send emails via a web application, featuring a **R
 - **Nodemailer Documentation**: [Nodemailer Docs](https://www.npmjs.com/package/nodemailer)
 
 
+
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
----
 
 **Contact**: For issues or questions, email [inaveed.contact@gmail.com](mailto:inaveed.contact@gmail.com).
 
